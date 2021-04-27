@@ -1,0 +1,31 @@
+.content{
+    text-align: center;
+    font-style: italic;
+    
+}
+.main{
+    width: 75px;
+    height: 400px;
+    padding-left: 6%;
+    margin-right: .5%;
+    float: left;
+    
+    
+}
+.first{
+    background-color: red;
+    margin-left: 10%;
+}
+.second{
+    background-color: royalblue;
+}
+.third{
+    background-color: saddlebrown;
+}
+.four{
+    background-color:skyblue;
+}
+.five{
+    background-color:rgb(255, 145, 0);
+}
+

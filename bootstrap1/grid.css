@@ -1,0 +1,20 @@
+.one,.two,.three{
+    width: 30%;
+    height: 200px;
+    border: 1px solid black;
+    float: left;
+}
+.one{
+    background-color: yellowgreen;
+    border-right: 2px solid brown;
+
+}
+.two{
+    background-color: chocolate;
+    border-right: 2px solid brown;
+
+}
+.three{
+    background-color: cadetblue;
+    border-right: 2px solid brown;
+}

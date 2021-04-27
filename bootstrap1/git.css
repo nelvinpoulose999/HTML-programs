@@ -1,0 +1,65 @@
+.container{
+    background-color: white;
+}
+.val{
+    width: 20px;
+    height: 40px;
+    background-color: white;
+}
+.one{
+    width: 20px;
+    height: 62px;
+    background-color: white;
+    
+}
+.val1{
+    width: 20px;
+    height: 62px;
+    background-color: white;
+   
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+ .val3{
+    width: 400px;
+    height: 250px;
+    background-color: whitesmoke;
+    position: relative;
+    top: 10px;
+    border: .1px solid grey;
+    border-radius: 6px;
+    padding-top: 25px;
+    
+}
+.fp{
+    padding-left: 150px;
+}
+.but{
+    position: relative;
+    top: 20px;
+}
+.val4{
+    width: 410px;
+    height: 30px;
+    background-color: whitesmoke;
+    position: relative;
+    top: 10px;
+    border: .1px solid grey;
+    border-radius: 6px;
+    text-align: center;
+}
+.val6{
+    position: relative;
+    bottom: -90px;
+    text-align: center;
+    font-size: smaller;
+}
+.a1{
+    text-decoration: none;
+}
+.a1:hover{
+    text-decoration: underline;
+}

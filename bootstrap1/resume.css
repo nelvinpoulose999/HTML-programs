@@ -1,0 +1,100 @@
+.container{
+    background-color: white;
+}
+.edit{
+    width: 100px;
+    height: 600px;
+    background-color: rgb(6, 88, 75);
+    border-left:1px solid grey;
+    border-top:1px solid grey;
+    border-bottom:1px solid grey; 
+}
+.edit1{
+    width: 300px;
+    background-color: violet;
+    border-right:1px solid grey;
+    border-top:1px solid grey;
+    border-bottom:1px solid grey;
+    
+}
+.main{
+    width: 760px;
+    height: 75px;
+    background-color: rgb(206, 186, 10);
+    position: absolute;
+    top: 50px;
+    right: 493px;
+    border-left:1px solid grey;
+    border-right:1px solid grey;
+    
+}
+img{
+    position: absolute;
+    left: 10%;
+    width: 11%;
+    height: auto;
+    border-radius: 50%;
+    bottom: -5px;
+}
+.one{
+    padding-left: 50%;
+    font-size: 15px;
+    position: absolute;
+    top: 10px;
+    left: 38%; 
+}
+.two{
+    text-align: right;
+    position: absolute;
+    left: 53%;
+    top: 23px;
+    font-size: 15px;
+}
+.three{
+    float: left;
+    position: absolute;
+    left: 80%;
+    top: 23px;
+    font-size: 15px;
+}
+.name{
+    /* text-align: center; */
+    padding-top: 60%;
+    padding-left: 60px;
+    line-height: 100%;
+   
+}
+.name1{
+    text-decoration: underline;
+    font-size: 20px;
+}
+.name2{
+    text-decoration: underline;
+    color: rgb(247, 149, 3);
+}
+.p1{
+    text-align: justify;
+    
+}
+.edu{
+    position: absolute;
+    top: 24%;
+    
+}
+.p2{
+    text-decoration: underline;    
+}
+.col{
+    background-color: green;
+}
+.p3{
+    line-height: 2px;
+}
+.edu1{
+    position: absolute;
+    top: 42%;
+}
+.edu2{
+    position: absolute;
+    top: 70%;
+}

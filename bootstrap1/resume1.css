@@ -1,0 +1,21 @@
+.main{
+    height: 640px;
+    width: 100%;
+    background-color: yellow;
+}
+.col1{
+
+    background-color: rgb(255, 145, 0);
+    height: 90px;
+    width: 40px;
+}
+.col2{
+    background-color: darkgreen;
+    height: 90px;
+    width: 50px;
+}
+.col3{
+    background-color: royalblue;
+    height: 90px;
+    width: 40px;
+}   
